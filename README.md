@@ -2,7 +2,7 @@
 
 Esse repositório foi criado para o desáfio do módulo de docker do curso Full Cycle. 
 
-** Para rodar digite docker-compose up -d no terminal **
+**Para rodar digite docker-compose up -d no terminal**
 
 **Abaixo segue a descrição do desafio fornecida pelo curso:**
 
